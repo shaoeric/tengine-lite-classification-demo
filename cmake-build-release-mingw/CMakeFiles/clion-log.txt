@@ -1,0 +1,4 @@
+"D:\Clion\CLion 2021.1.1\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Release -DCMAKE_MAKE_PROGRAM=D:/mingw64/bin/mingw32-make.exe -DCMAKE_C_COMPILER=D:/mingw64/bin/gcc.exe -DCMAKE_CXX_COMPILER=D:/mingw64/bin/g++.exe -G "CodeBlocks - MinGW Makefiles" E:\C_project\tengine-demo
+-- Configuring done
+-- Generating done
+-- Build files have been written to: E:/C_project/tengine-demo/cmake-build-release-mingw
