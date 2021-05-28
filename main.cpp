@@ -170,8 +170,6 @@ int main()
     float mean[3] = {-DEFAULT_MEAN1, -DEFAULT_MEAN2, -DEFAULT_MEAN3};
     float scale[3] = {DEFAULT_SCALE1, DEFAULT_SCALE2, DEFAULT_SCALE3};
 
-
-
     if (tengine_classify(model_file.c_str(), image_file.c_str(), img_h, img_w,
                          mean, scale, loop_count, num_thread, cpu_affinity) < 0)
         return -1;
